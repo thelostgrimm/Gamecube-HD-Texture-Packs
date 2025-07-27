@@ -18,3 +18,5 @@ I will upload packs as I deem them finished. I recommend Pngyu to compress textu
 ##Uploaded Packs##
 
 Virtue Striker 2002 (GVS) 2x https://archive.org/download/gchdtexturepacks/Virtua%20Striker%202002%20%28GVS%29%202x.zip
+
+Virtue Striker 2002 (GVS) 3x https://archive.org/download/gchdtexturepacks/Virtua%20Striker%202002%20%28GVS%29%203x.zip
