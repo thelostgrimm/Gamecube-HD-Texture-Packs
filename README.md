@@ -1,6 +1,8 @@
 https://archive.org/details/gchdtexturepacks
 
-<img width="1605" height="802" alt="Screenshot 2025-07-19 05-41-34" src="https://github.com/user-attachments/assets/1f0dc5a8-d60d-410f-a3c3-60142d733fa4" />
+<img width="128" height="128" alt="tex1_128x128_m_7ec5aac130411830_14" src="https://github.com/user-attachments/assets/142471c8-e75a-4be0-bfdf-46b7fb512f3d" />
+<img width="256" height="256" alt="tex1_128x128_m_7ec5aac130411830_14" src="https://github.com/user-attachments/assets/e4bcf016-e2ec-42b8-a9ec-abecb4b1388d" />
+<img width="384" height="384" alt="tex1_128x128_m_7ec5aac130411830_14" src="https://github.com/user-attachments/assets/55cc7b6d-dc21-41c2-a145-4a2eaa6ba867" />
 
 Textures extracted with https://github.com/Venomalia/DolphinTextureExtraction-tool
 
