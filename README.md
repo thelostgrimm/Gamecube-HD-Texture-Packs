@@ -1,5 +1,7 @@
 https://archive.org/details/gchdtexturepacks
 
+<img width="1605" height="802" alt="Screenshot 2025-07-19 05-41-34" src="https://github.com/user-attachments/assets/1f0dc5a8-d60d-410f-a3c3-60142d733fa4" />
+
 Textures extracted with https://github.com/Venomalia/DolphinTextureExtraction-tool
 
 Textures dumped with https://dolphin-emu.org/
