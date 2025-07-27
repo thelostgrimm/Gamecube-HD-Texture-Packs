@@ -9,12 +9,10 @@ Textures dumped with https://dolphin-emu.org/
 https://github.com/chaiNNer-org/chaiNNer
 
 Textures upscaled with ESRGAN HDCube4
-
 https://github.com/Venomalia/HDcube
-
 https://ko-fi.com/s/c64e122075
 
-I will upload packs as I deem them finished. 
+I will upload packs as I deem them finished. I recommend Pngyu to compress textures if you want to compress/optimixze them https://nukesaq88.github.io/Pngyu/
 
 ##Uploaded Packs##
 
