@@ -4,9 +4,9 @@ https://archive.org/details/gchdtexturepacks
 
 Textures extracted with https://github.com/Venomalia/DolphinTextureExtraction-tool
 
-Textures dumped with https://dolphin-emu.org/
+Textures dumped with Dolphin https://dolphin-emu.org/
 
-https://github.com/chaiNNer-org/chaiNNer
+Chainner https://github.com/chaiNNer-org/chaiNNer
 
 Textures upscaled with ESRGAN HDCube4
 https://github.com/Venomalia/HDcube
