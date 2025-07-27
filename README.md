@@ -6,7 +6,9 @@ Textures extracted with https://github.com/Venomalia/DolphinTextureExtraction-to
 
 Textures dumped with https://dolphin-emu.org/
 
-Textures upscaled with HDCube4
+https://github.com/chaiNNer-org/chaiNNer
+
+Textures upscaled with ESRGAN HDCube4
 
 https://github.com/Venomalia/HDcube
 
